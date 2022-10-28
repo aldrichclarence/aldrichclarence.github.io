@@ -21,8 +21,8 @@ Conference Papers
 *IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2022* <br/>
 <u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow
 
-
 **Unscripted Retargeting: Reach Prediction for Haptic Retargeting in Virtual Reality**
 ------
 *IEEE Virtual Reality (VR) 2021* <br/>
-<u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow
+<u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow <br/>
+[*Preprint Version*](https://www.researchgate.net/publication/351463044_Unscripted_Retargeting_Reach_Prediction_for_Haptic_Retargeting_in_Virtual_Reality)
