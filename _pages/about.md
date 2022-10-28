@@ -19,11 +19,11 @@ Conference Papers
 
 **Investigating The Effect of Direction on The Limits of Haptic Retargeting**
 ------
-*IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2022*
+*IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2022* <br/>
 <u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow
 
 
 **Unscripted Retargeting: Reach Prediction for Haptic Retargeting in Virtual Reality**
 ------
-*IEEE Virtual Reality (VR) 2021*
+*IEEE Virtual Reality (VR) 2021* <br/>
 <u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow
