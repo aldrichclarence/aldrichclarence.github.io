@@ -20,7 +20,7 @@ Conference Papers
 ------
 *IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2022* <br/>
 <u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow <br/>
-[*Data*](https://figshare.com/articles/dataset/Dataset_from_Investigating_The_Effect_of_Direction_on_The_Limits_of_Haptic_Retargeting/20523300)
+[*Preprint Version*](https://www.researchgate.net/publication/366627182_Investigating_The_Effect_of_Direction_on_The_Limits_of_Haptic_Retargeting) / [*Data*](https://figshare.com/articles/dataset/Dataset_from_Investigating_The_Effect_of_Direction_on_The_Limits_of_Haptic_Retargeting/20523300)
 
 **Unscripted Retargeting: Reach Prediction for Haptic Retargeting in Virtual Reality**
 ------
