@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-It's me, hi! I'm Aldrich Clarence, a PhD student at the Data Visualisation and Immersive Analytics (DVIA) Lab. This research lab is part of Monash University’s Faculty of Information Technology in Melbourne, Australia. My supervisors are [A/Prof. Michael Wybrow](https://users.monash.edu/~mwybrow/), [Dr. Jarrod Knibbe](https://www.jarrodknibbe.info), and [Dr. Maxime Cordeil](https://sites.google.com/view/cordeil/home).
+Hi! I'm Aldrich Clarence, a PhD graduate from the Embodied Visualisation (EV) Lab. This research lab is part of Monash University’s Faculty of Information Technology in Melbourne, Australia. My supervisors are [A/Prof. Michael Wybrow](https://users.monash.edu/~mwybrow/), [Dr. Jarrod Knibbe](https://www.jarrodknibbe.info), and [Dr. Maxime Cordeil](https://sites.google.com/view/cordeil/home).
 
-Broadly speaking, I'm currently interested in research around interactions in Virtual Reality (VR) and Augmented Reality (AR). My current work explores the adoption of haptics in VR experience with haptic retargeting. A brief intro to haptic retargeting, it is a solution that uses perceptual illusions to support the use of a single 'everyday object' as a haptic proxy for multiple virtual objects. So far, I have done explorations on how perceptual illusions can be used around the user's interaction space to adopt haptics, the use of reach-based prediction models to allow on-the-fly reaches with haptic retargeting, and demonstrating novel ways to apply haptic retargeting beyond the known limits of perceptual illusion.
+Broadly speaking, I am currently interested in research related to interactions in Virtual Reality (VR) and Augmented Reality (AR). My current work explores the adoption of haptics in the VR experience through haptic retargeting. To briefly introduce haptic retargeting, it is a solution that uses perceptual illusions to enable the use of a single 'everyday object' as a haptic proxy for multiple virtual objects.
+
+So far, I have done explorations on how perceptual illusions can be used around the user's interaction space to adopt haptics, the use of reach-based prediction models to allow on-the-fly reaches with haptic retargeting, and demonstrating novel ways to apply haptic retargeting beyond the known limits of perceptual illusion.
 
 Conference Papers
 ======
