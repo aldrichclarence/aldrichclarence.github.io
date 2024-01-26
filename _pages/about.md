@@ -17,6 +17,11 @@ So far, I have done explorations on how perceptual illusions can be used around 
 Conference Papers
 ======
 
+**Stacked Retargeting: Combining Redirected Walking and Hand Redirection to Expand Haptic Retargeting's Coverage**
+------
+* Will appear on ACM Proceedings of the CHI Conference on Human Factors in
+Computing Systems 2024* <br/>
+<u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow <br/>
 
 **Investigating The Effect of Direction on The Limits of Haptic Retargeting**
 ------
