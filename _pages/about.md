@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br>
-<div align="center" style="font-size: larger;"><mark>I am currently looking for postdoc opportunities 
+<div align="center" style="font-size: larger; font-weight: bold;"><mark>I am currently looking for postdoc opportunities 
   and new job opportunities.</mark></div>
   
 Hi! I'm Aldrich Clarence, a PhD graduate from the Embodied Visualisation (EV) Lab. This research lab is part of Monash University’s Faculty of Information Technology in Melbourne, Australia. My supervisors are [A/Prof. Michael Wybrow](https://users.monash.edu/~mwybrow/), [Dr. Jarrod Knibbe](https://www.jarrodknibbe.info), and [Dr. Maxime Cordeil](https://sites.google.com/view/cordeil/home).
