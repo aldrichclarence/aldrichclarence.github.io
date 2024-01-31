@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <br>
 <div align="center" style="font-size: larger; font-weight: bold;"><mark>I am currently looking for postdoc opportunities 
-  and new job opportunities.</mark></div>
-  
+  and new job opportunities.</mark></div><br>
 Hi! I'm Aldrich Clarence, a PhD graduate from the Embodied Visualisation (EV) Lab. This research lab is part of Monash University’s Faculty of Information Technology in Melbourne, Australia. My supervisors are [A/Prof. Michael Wybrow](https://users.monash.edu/~mwybrow/), [Dr. Jarrod Knibbe](https://www.jarrodknibbe.info), and [Dr. Maxime Cordeil](https://sites.google.com/view/cordeil/home).
 
 Broadly speaking, I am currently interested in research related to interactions in Virtual Reality (VR) and Augmented Reality (AR). My current work explores the adoption of haptics in the VR experience through haptic retargeting. To briefly introduce haptic retargeting, it is a solution that uses perceptual illusions to enable the use of a single 'everyday object' as a haptic proxy for multiple virtual objects.
