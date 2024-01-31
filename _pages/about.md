@@ -14,7 +14,7 @@ Broadly speaking, I am currently interested in research related to interactions 
 
 So far, I have done explorations on how perceptual illusions can be used around the user's interaction space to adopt haptics, the use of reach-based prediction models to allow on-the-fly reaches with haptic retargeting, and demonstrating novel ways to apply haptic retargeting beyond the known limits of perceptual illusion.
 
-<mark>I am currently looking for postdoc opportunities and new job opportunities.</mark>
+<div align="center" style="font-size: larger; font-weight: bold;"><mark>I am currently looking for postdoc opportunities and new job opportunities.</mark></div>
 
 Conference Papers
 ======
