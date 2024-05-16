@@ -22,18 +22,21 @@ Conference Papers
 
 **Stacked Retargeting: Combining Redirected Walking and Hand Redirection to Expand Haptic Retargeting's Coverage**
 ------
-*Will appear on ACM Proceedings of the CHI Conference on Human Factors in
-Computing Systems 2024* <br/>
+*ACM Proceedings of the CHI Conference on Human Factors in
+Computing Systems 2024 (Awarded "Best Paper Honourable Mention")* <br/>
 <u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow <br/>
+[*Paper*]([https://dl.acm.org/doi/10.1145/3613904.3642228]) / [*Supplemental Materials*]([https://dl.acm.org/doi/10.1145/3613904.3642228#sec-supp]) / [*Presentation Video*]([https://www.youtube.com/watch?v=RCuVUULI2pc])
 
 **Investigating The Effect of Direction on The Limits of Haptic Retargeting**
 ------
 *IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2022* <br/>
 <u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow <br/>
-[*Preprint Version*](https://www.researchgate.net/publication/366627182_Investigating_The_Effect_of_Direction_on_The_Limits_of_Haptic_Retargeting) / [*Data*](https://figshare.com/articles/dataset/Dataset_from_Investigating_The_Effect_of_Direction_on_The_Limits_of_Haptic_Retargeting/20523300)
+[*Preprint Version*](https://www.researchgate.net/publication/366627182_Investigating_The_Effect_of_Direction_on_The_Limits_of_Haptic_Retargeting) / [*Data*](https://figshare.com/articles/dataset/Dataset_from_Investigating_The_Effect_of_Direction_on_The_Limits_of_Haptic_Retargeting/20523300) / [*Presentation Video*]([https://www.youtube.com/watch?v=bypPWrTU1vw])
 
 **Unscripted Retargeting: Reach Prediction for Haptic Retargeting in Virtual Reality**
 ------
 *IEEE Virtual Reality (VR) 2021* <br/>
 <u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow <br/>
-[*Preprint Version*](https://www.researchgate.net/publication/351463044_Unscripted_Retargeting_Reach_Prediction_for_Haptic_Retargeting_in_Virtual_Reality) / [*Data*](https://figshare.com/articles/dataset/Unscripted-Retargeting-Reaching-Supervised-Dataset_csv/13615868/4) / [*Code*](https://github.com/aldrichclarence/UnscriptedRetargeting)
+[*Preprint Version*](https://www.researchgate.net/publication/351463044_Unscripted_Retargeting_Reach_Prediction_for_Haptic_Retargeting_in_Virtual_Reality) / [*Data*](https://figshare.com/articles/dataset/Unscripted-Retargeting-Reaching-Supervised-Dataset_csv/13615868/4) / [*Code*](https://github.com/aldrichclarence/UnscriptedRetargeting) / [*Presentation Video*]([https://www.youtube.com/watch?v=0mtZi8Zz8UU])
+
+
