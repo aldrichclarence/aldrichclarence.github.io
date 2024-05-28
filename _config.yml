@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aldrich Clarence"
 title_separator          : "-"
 name                     : &name "Aldrich Clarence"
-description              : &description "PhD Student at Monash University's Human-Centred Computing"
+description              : &description "PhD Graduate from Monash University's Human-Centred Computing"
 url                      : https://aldrichclarence.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aldrichclarence/aldrichclarence.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aldrich Clarence"
   avatar           : "profile.png"
-  bio              : "PhD Student at Monash University"
+  bio              : "PhD Graduate from Monash University"
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OPleEjUAAAAJ&hl=en"
-  email            : "aldrich.clarence@monash.edu"
+  email            : "aldrichclarence.z@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Aldrich-Clarence-2"
   uri              :
   bitbucket        :
