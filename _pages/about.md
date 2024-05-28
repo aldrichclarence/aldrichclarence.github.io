@@ -39,4 +39,10 @@ Computing Systems 2024 (Awarded "Best Paper Honourable Mention")* <br/>
 <u>Aldrich Clarence</u>, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow <br/>
 [*Preprint Version*](https://www.researchgate.net/publication/351463044_Unscripted_Retargeting_Reach_Prediction_for_Haptic_Retargeting_in_Virtual_Reality) / [*Data*](https://figshare.com/articles/dataset/Unscripted-Retargeting-Reaching-Supervised-Dataset_csv/13615868/4) / [*Code*](https://github.com/aldrichclarence/UnscriptedRetargeting) / [*Presentation Video*](https://www.youtube.com/watch?v=0mtZi8Zz8UU)
 
+Thesis
+======
 
+**The Limits of Haptic Retargeting in Virtual Reality**
+------
+*Monash University* <br/>
+[*PhD Thesis*](https://bridges.monash.edu/articles/thesis/The_Limits_of_Haptic_Retargeting_in_Virtual_Reality/23504583) / [*Website*](https://www.monash.edu/it/hcc/embodied-visualisation/projects/the-limits-and-potential-of-haptic-retargeting)
